@@ -3,5 +3,6 @@ function shout(string){
   string.toUpperCase()
 }
 function logShout(string){
-  console.log()
+  console.log('hello')
+  'hello'.toUpperCase()
 }
